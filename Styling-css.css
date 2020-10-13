@@ -1,0 +1,58 @@
+
+body{
+    font-family: 'Special Elite', cursive;
+    background-image: url(bg-primary.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#font-color{
+    color: #065FAC;
+    text-shadow: 0px 3px 2px #98F5F5;
+    font-size: 20px;
+    font-weight: 800;
+    margin: mr-auto;
+}
+
+#font-header{
+    color: #065FAC;
+    text-shadow: 0px 3px 2px #98F5F5;
+    font-size: 30px;
+    font-weight: 800;
+    padding: 0.3rem;
+    border: 6px ;
+    width: 200px;
+    height: 150px; 
+    border-style: solid;
+    border-image: 
+      linear-gradient(
+        to bottom, 
+        #98F5F5, 
+        rgba(0, 0, 0, 0)
+      ) 14 100%;
+      
+}
+img{
+    widows: 30%;
+    margin-left: 350px;
+    margin-top: 150px;
+
+}
+.navbar {
+    background-color:#F59898 !important;
+    position: fixed;
+    width:100%;
+    
+}
+#font-color:hover{
+    color:  #F12323;
+}
+.nav ul{
+    text-align: right;
+}
+.fas {
+    
+        font-size: 32px;
+        color:#5F320C;
+}
